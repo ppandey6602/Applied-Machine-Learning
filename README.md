@@ -9,6 +9,5 @@ For the dataset refer the links given below:
 2.) Speech Recognition:
       i) Reading and plotting audio signals. 
          (Try using diffrent audios given in the folder itself)
-         
       ii) Generating audio signal from custom parameters
           (Try Changing the tone frequency and parameters to get a different amplitude vs time curves)
