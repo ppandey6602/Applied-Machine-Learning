@@ -15,3 +15,4 @@ For the dataset refer the links given below:
           
       iii) Sythesizing music from given custom parameters
            (We can try experimenting the music produced by changing frequencies and types of tones of json file.)
+           Output_file is the file produced
